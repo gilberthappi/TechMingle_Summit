@@ -483,6 +483,7 @@ body {
     display: flex;
     flex-direction: row;
     gap: 10px;
+    height: 200px;
   }
 
   .section-2 .inner-container {
