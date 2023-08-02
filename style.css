@@ -171,13 +171,11 @@ body {
 
 .section-2 .p {
   font-size: 12px;
-  width: 60%;
 }
 
 .section-2 .h3 {
   color: #ec5242;
   font-size: 15px;
-  width: 30%;
 }
 
 .section-2 .red-box {
@@ -189,7 +187,6 @@ body {
   justify-content: center;
   font-size: large;
   font-weight: 600;
-  margin-top: 20px;
 }
 
 .section-2 .whole-program {
